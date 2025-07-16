@@ -54,7 +54,7 @@ os.makedirs(dataset_dir, exist_ok=True)
 face_cascade = cv2.CascadeClassifier(cv2.data.haarcascades + 'haarcascade_frontalface_default.xml')
 user_id = 1
 
-print("📸 Capture 5 face images for training:")
+print("📸 Capture 10 face images for training:")
 for i in range(10):
     filename = take_photo(f"{dataset_dir}/User.{user_id}.{i+1}.jpg")
     print(f"Saved: {filename}")
