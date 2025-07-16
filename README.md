@@ -14,9 +14,9 @@ This system allows users to:
 
 🖼️ Demo
 
-   <img width="672" height="795" alt="Screenshot 2025-07-15 175435" src="https://github.com/user-attachments/assets/b4db3844-faff-406d-b52d-3626a8f726a9" />
+<img width="644" height="539" alt="Screenshot 2025-07-15 175435" src="https://github.com/user-attachments/assets/6a4d7b07-b00d-4308-a22c-12c18a5068bb" />
 
-
+   
 🔍 Features
 
     ✅ Real-time face detection using Haar Cascades
