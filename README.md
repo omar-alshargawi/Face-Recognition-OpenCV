@@ -74,4 +74,3 @@ pip install opencv-python
 
 Omar Alshargawi
 
-📎 LinkedIn Profile
