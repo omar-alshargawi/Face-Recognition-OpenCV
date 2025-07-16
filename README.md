@@ -14,7 +14,8 @@ This system allows users to:
 
 🖼️ Demo
 
-<img width="644" height="539" alt="Screenshot 2025-07-15 175435" src="https://github.com/user-attachments/assets/6a4d7b07-b00d-4308-a22c-12c18a5068bb" />
+<img width="630" height="565" alt="Screenshot 2025-07-16 133840" src="https://github.com/user-attachments/assets/4d05fb6f-c966-483e-9626-9718a32dfb7c" />
+
 
    
 🔍 Features
